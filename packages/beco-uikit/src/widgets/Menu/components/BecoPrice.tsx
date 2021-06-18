@@ -20,7 +20,7 @@ const PriceLink = styled.a`
     }
   }
 `;
-const priceLink = "https://kaidex.io/exchange/0x1eBbF8080149FF07381AFd148bA0AF007f78cD3c"
+const priceLink = "https://kaidex.io/exchange/0x1eBbF8080149FF07381AFd148bA0AF007f78cD3c";
 const CakePrice: React.FC<Props> = ({ cakePriceUsd }) => {
   return cakePriceUsd ? (
     <PriceLink href={priceLink} target="_blank">
