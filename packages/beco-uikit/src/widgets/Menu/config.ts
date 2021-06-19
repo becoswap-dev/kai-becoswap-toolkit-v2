@@ -98,6 +98,10 @@ export const socials = [
         label: "English",
         href: "https://t.me/beco_swap",
       },
+      {
+        label: "Việt Nam",
+        href: "https://t.me/becoswap_vietnam",
+      },
     ],
   },
   {
