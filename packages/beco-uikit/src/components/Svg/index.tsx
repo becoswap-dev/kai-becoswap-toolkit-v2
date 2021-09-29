@@ -7,6 +7,7 @@ export { default as ArrowForwardIcon } from "./Icons/ArrowForward";
 export { default as ArrowUpIcon } from "./Icons/ArrowUp";
 export { default as AutoRenewIcon } from "./Icons/AutoRenew";
 export { default as BinanceIcon } from "./Icons/Binance";
+export { default as KardiaChainIcon} from "./Icons/KardiaChain";
 export { default as BlockIcon } from "./Icons/Block";
 export { default as BnbUsdtPairTokenIcon } from "./Icons/BnbUsdtPairToken";
 export { default as BunnyCardsIcon } from "./Icons/BunnyCards";
@@ -71,5 +72,8 @@ export { default as VolumeOffIcon } from "./Icons/VolumeOff";
 export { default as VolumeUpIcon } from "./Icons/VolumeUp";
 export { default as WarningIcon } from "./Icons/Warning";
 export { default as RefreshIcon } from "./Icons/Refresh";
+export { default as PresentWonIcon } from "./Icons/PresentWon";
+export { default as ArrowLastIcon } from './Icons/ArrowLast'
+export { default as SmallDotIcon} from "./Icons/SmallDot"; 
 export { default as Svg } from "./Svg";
 export type { SvgProps } from "./types";
