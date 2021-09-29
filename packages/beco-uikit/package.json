@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/becoswap/kai-becoswap-toolkit/tree/master/packages/becoswap-uikit",
+  "repository": "https://github.com/becoswap-dev/kai-becoswap-toolkit-v2/tree/master/packages/beco-uikit",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",

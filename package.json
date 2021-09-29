@@ -8,13 +8,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/becoswap/becoswap-toolkit.git"
+    "url": "git+https://github.com/becoswap-dev/kai-becoswap-toolkit-v2.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/becoswap/becoswap-toolkit/issues"
+    "url": "https://github.com/becoswap-dev/kai-becoswap-toolkit-v2/issues"
   },
-  "homepage": "https://github.com/becoswap/becoswap-toolkit#readme",
+  "homepage": "https://github.com/becoswap-dev/kai-becoswap-toolkit-v2#readme",
   "scripts": {
     "build": "lerna run build",
     "test": "lerna run test",
