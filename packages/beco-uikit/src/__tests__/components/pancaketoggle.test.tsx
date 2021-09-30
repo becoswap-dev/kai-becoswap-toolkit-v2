@@ -23,7 +23,7 @@ it("renders correctly", () => {
     }
 
     .c0 .pancake {
-      background: #e27c31;
+      background: #1b68b9;
       border-radius: 50%;
       width: 32px;
       height: 32px;
@@ -32,7 +32,7 @@ it("renders correctly", () => {
       transition: 0.4s ease;
       top: 2px;
       left: 4px;
-      box-shadow: 0 2px 0 2px #fbbe7c;
+      box-shadow: 0 2px 0 2px #4e9beb;
     }
 
     .c0 .pancake:nth-child(1) {
@@ -115,8 +115,8 @@ it("renders correctly", () => {
     }
 
     .c1:checked + label .pancake:nth-child(1) {
-      background: #e27c31;
-      box-shadow: 0 2px 0 2px #fbbe7c;
+      background: #1b68b9;
+      box-shadow: 0 2px 0 2px #4e9beb;
       -webkit-transition-delay: 0.2s;
       transition-delay: 0.2s;
     }
@@ -218,7 +218,7 @@ it("renders correctly scale sm", () => {
     }
 
     .c0 .pancake {
-      background: #e27c31;
+      background: #1b68b9;
       border-radius: 50%;
       width: 16px;
       height: 16px;
@@ -227,7 +227,7 @@ it("renders correctly scale sm", () => {
       transition: 0.4s ease;
       top: 2px;
       left: 4px;
-      box-shadow: 0 1px 0 1px #fbbe7c;
+      box-shadow: 0 1px 0 1px #4e9beb;
     }
 
     .c0 .pancake:nth-child(1) {
@@ -310,8 +310,8 @@ it("renders correctly scale sm", () => {
     }
 
     .c1:checked + label .pancake:nth-child(1) {
-      background: #e27c31;
-      box-shadow: 0 1px 0 1px #fbbe7c;
+      background: #1b68b9;
+      box-shadow: 0 1px 0 1px #4e9beb;
       -webkit-transition-delay: 0.2s;
       transition-delay: 0.2s;
     }
