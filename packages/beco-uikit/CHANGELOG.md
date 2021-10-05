@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.21](https://github.com/becoswap-dev/kai-becoswap-toolkit-v2/tree/master/packages/beco-uikit/compare/@becoswap-libs/kai-uikit@1.0.20...@becoswap-libs/kai-uikit@1.0.21) (2021-10-05)
+
+**Note:** Version bump only for package @becoswap-libs/kai-uikit
+
+
+
+
+
 ## [1.0.20](https://github.com/becoswap-dev/kai-becoswap-toolkit-v2/tree/master/packages/beco-uikit/compare/@becoswap-libs/kai-uikit@1.0.19...@becoswap-libs/kai-uikit@1.0.20) (2021-10-04)
 
 **Note:** Version bump only for package @becoswap-libs/kai-uikit
