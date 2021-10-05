@@ -75,5 +75,7 @@ export { default as RefreshIcon } from "./Icons/Refresh";
 export { default as PresentWonIcon } from "./Icons/PresentWon";
 export { default as ArrowLastIcon } from './Icons/ArrowLast'
 export { default as SmallDotIcon} from "./Icons/SmallDot"; 
+export { default as StarFillIcon } from "./Icons/StarFill";
+export { default as StarLineIcon } from "./Icons/StarLine";
 export { default as Svg } from "./Svg";
 export type { SvgProps } from "./types";
