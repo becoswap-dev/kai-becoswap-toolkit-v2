@@ -29,6 +29,7 @@ export * from "./components/Tag";
 export * from "./components/Text";
 export * from "./components/Toggle";
 export * from "./components/Message";
+export * from "./components/BottomDrawer";
 
 // Hooks
 export * from "./hooks";
